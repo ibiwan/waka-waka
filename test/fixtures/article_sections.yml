@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  article: one
+  section: one
+  edit: one
+  order_key: 
+
+two:
+  article: two
+  section: two
+  edit: two
+  order_key: 
